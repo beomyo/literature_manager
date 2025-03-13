@@ -10,7 +10,7 @@
 ![图片文字描述](https://github.com/beomyo/literature_manager/blob/main/files/2025-03-13_11-01-56.jpg)
 论文上传
 ![图片文字描述](https://github.com/beomyo/literature_manager/blob/main/files/2025-03-13_11-02-00.jpg)
-嵌入neo4j，因为安全性无法直接使用iframe标签嵌入，采用Nginx反向代理neo4j，再将Nginx代理后的地址嵌入，接触限制
+嵌入neo4j，因为安全性无法直接使用iframe标签嵌入，采用Nginx反向代理neo4j，再将Nginx代理后的地址嵌入，解除限制
 ![图片文字描述](https://github.com/beomyo/literature_manager/blob/main/files/2025-03-13_11-02-11.jpg)
 用户论文信息管理，只能看到自己上传的论文
 ![图片文字描述](https://github.com/beomyo/literature_manager/blob/main/files/2025-03-13_11-02-17.jpg)
