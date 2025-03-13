@@ -1,4 +1,4 @@
-部分页面
+# 部分页面
 登录注册
 ![图片文字描述](https://github.com/beomyo/literature_manager/blob/main/files/2025-03-13_11-02-27.jpg)
 关键词检索，搜索结果可高亮显示
